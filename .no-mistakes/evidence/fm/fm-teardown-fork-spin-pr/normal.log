@@ -1,0 +1,2 @@
+ok - teardown leaves opencode's busy plugin in the returned pool worktree as on main
+ok - a leaked descendant process rooted under the task's worktree is reaped by teardown, not left surviving

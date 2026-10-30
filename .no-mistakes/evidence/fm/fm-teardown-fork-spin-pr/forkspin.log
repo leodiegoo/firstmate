@@ -1,0 +1,2 @@
+ok - a spinning unexec'd fork copy is cut off, teardown exits 143, locks are released and the working copy is intact
+bash _forkspin.test.sh  1.08s user 2.40s system 30% cpu 11.233 total
