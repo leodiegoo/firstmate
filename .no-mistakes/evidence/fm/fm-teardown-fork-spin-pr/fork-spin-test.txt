@@ -1,0 +1,5 @@
+ok - teardown retires a v1 presentation journal once its token workspace is confirmed gone
+ok - teardown retains a v1 presentation journal while its token workspace is still present
+ok - teardown retains a v1 presentation journal when the workspace query is ambiguous
+ok - a spinning unexec'd fork copy is cut off, teardown exits 143, locks are released and the working copy is intact
+bash $T  2.84s user 4.96s system 56% cpu 13.848 total
